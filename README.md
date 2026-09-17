@@ -37,14 +37,13 @@ Veri seti, 2010–2019 döneminde 20 ülkeye ait ekonomik, sosyal ve çevresel g
 
 ## Klasör Yapısı
 text
+## Klasör Yapısı
+
+```text
 world-bank-economic-development-analysis/
 │
-├── data/
-│   └── world_bank_dataset.csv
-│
-├── notebooks/
-│   └── world_bank_analysis.ipynb
-│
+├── world_bank_dataset.csv
+├── world_bank_analysis.ipynb
 ├── README.md
 ├── requirements.txt
 └── .gitignore
